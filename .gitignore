@@ -1,0 +1,8 @@
+/build
+**/build/
+**/android/
+**/ios/
+**/macos/
+**/windows/
+**/linux/
+**/node_modules/
